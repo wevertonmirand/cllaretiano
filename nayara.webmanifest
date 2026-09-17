@@ -1,0 +1,31 @@
+{
+  "id": "./SGA%20-%20Sistema%20Gerenciador%20de%20Aprendizagem%20-%20nayara.html",
+  "name": "SGA - Nayara",
+  "short_name": "Nayara",
+  "lang": "pt-BR",
+  "start_url": "./SGA%20-%20Sistema%20Gerenciador%20de%20Aprendizagem%20-%20nayara.html",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#164193",
+  "background_color": "#164193",
+  "icons": [
+    {
+      "src": "./assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
